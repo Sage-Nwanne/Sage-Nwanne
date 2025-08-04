@@ -26,14 +26,14 @@ _AI Agent Services • Full Stack Engineering • Digital Solutions_
 
 ### 🚩 Featured Projects
 
-- [**Neesh Backend**](https://github.com/Sage-Nwanne/neesh-backend)  
+- [**Neesh **](https://github.com/Sage-Nwanne/Neesh)  
   AI-driven B2B marketplace backend (Python, Flask, PostgreSQL)
 
-- [**Inbound Ministry Agent System**](https://github.com/Sage-Nwanne/inbound_ministry_agent_system)  
-  Multi-agent system for intelligent inbound communications and support
+- [**Ministry Ai Hub**](https://github.com/Sage-Nwanne/inbound_ministry_agent_system)  
+  Multi-agent system for intelligent inbound communications, sermon insight, donations, and pastoral support
 
-- [**Express Auth Starter**](https://github.com/Sage-Nwanne/men-stack-session-auth)  
-  Session-based authentication boilerplate for Node.js/Express/MongoDB
+- [**DTB Solutions Website**](https://github.com/Sage-Nwanne/DTB)  
+  Modern business website for a digital solutions agency, highlighting services, featured work, and contact info (React, Tailwind CSS).
 
 
 ---
