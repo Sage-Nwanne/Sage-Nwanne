@@ -26,7 +26,7 @@ _AI Agent Services • Full Stack Engineering • Digital Solutions_
 
 ### 🚩 Featured Projects
 
-- [**Neesh **](https://github.com/Sage-Nwanne/Neesh)  
+- [**Neesh**](https://github.com/Sage-Nwanne/Neesh)  
   AI-driven B2B marketplace backend (Python, Flask, PostgreSQL)
 
 - [**Ministry Ai Hub**](https://github.com/Sage-Nwanne/inbound_ministry_agent_system)  
