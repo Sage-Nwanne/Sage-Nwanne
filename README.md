@@ -38,7 +38,7 @@ Hi, I'm Sage! I'm a software engineer and digital strategy specialist who builds
 
 ### 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/sagenwanne/)
 - [DTB Website](https://dtbsolutions.tech)
 - [Email](sagenwanne5@gmail.com)
 
