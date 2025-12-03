@@ -7,9 +7,7 @@ _AI Agent Services • Full Stack Engineering • Digital Solutions_
 
 ### 👨‍💻 About Me
 
-- 🚀 **Lead developer and solutions architect** at DTB, helping startups and businesses scale with custom software.
-- 🤖 Specialize in building and deploying **AI agent services**—from conversational bots to process automation and intelligent search.
-- 💡 Passionate about code quality, learning new technologies, and collaborating on projects that have real-world impact.
+Hi, I'm Sage! I'm a software engineer and digital strategy specialist who builds AI-powered tools, full-stack applications, and SEO-optimized platforms for mission-driven organizations and startups. My work focuses on solving real problems through clean engineering, automation workflows, and intelligent system design.
 
 ---
 
@@ -18,9 +16,9 @@ _AI Agent Services • Full Stack Engineering • Digital Solutions_
 - **Languages:** Python, JavaScript (Node.js, React), Java
 - **Frameworks/Libraries:** Django, Flask, Express, React, Spring Boot, FastAPI
 - **AI/ML:** OpenAI, LangChain, Semantic Kernel, Swarms, LLM-based systems
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Cloud:** Azure, AWS
-- **Other:** REST APIs, Docker, Git, CI/CD
+- **Backend Engineering:** MongoDB, PostgreSQL, MySQL
+- **SEO Technology:** technical SEO, site performance, structured metadata
+- **CLoud & DevOps:** Docker, GitHub Actions, AWS/Heroku deployment
 
 ---
 
